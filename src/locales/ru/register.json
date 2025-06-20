@@ -1,0 +1,14 @@
+{
+    "title": "Регистрация",
+    "confirmPassword": "Подтвердите пароль",
+    "submitButton": "Зарегистрироваться",
+    "loginLink": "Уже есть аккаунт? Войти",
+    "validation": {
+      "emailRequired": "Email обязателен",
+      "passwordMinLength": "Минимум 6 символов",
+      "passwordsNotMatch": "Пароли не совпадают",
+      "emailInvalid": "Неверный формат email",
+      "passwordRequired": "Пароль обязателен",
+      "confirmPasswordRequired": "Подтверждение пароля обязательно"
+    }
+  }

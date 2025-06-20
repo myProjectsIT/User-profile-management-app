@@ -1,0 +1,11 @@
+{
+  "title": "Мой профиль",
+  "firstName": "Имя",
+  "lastName": "Фамилия",
+  "email": "Электронная почта",
+  "updateProfileButton": "Редактировать профиль",
+  "editProfileButton": "Редактировать профиль",
+  "saveButton": "Сохранить",
+  "cancelButton": "Отмена",
+  "support": "Информация о поддержке"
+}

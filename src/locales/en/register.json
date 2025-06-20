@@ -1,0 +1,14 @@
+{
+    "title": "Sign Up",
+    "confirmPassword": "Confirm Password",
+    "submitButton": "Register",
+    "loginLink": "Already have an account? Sign In",
+    "validation": {
+      "emailRequired": "Email is required",
+      "passwordMinLength": "Minimum 6 characters",
+      "passwordsNotMatch": "Passwords don't match",
+      "emailInvalid": "Invalid email format",
+      "passwordRequired": "Password is required",
+      "confirmPasswordRequired": "Confirm password is required"
+    }
+  }

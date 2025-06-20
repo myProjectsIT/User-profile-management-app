@@ -1,0 +1,10 @@
+{
+  "title": "Вход",
+  "submitButton": "Войти",
+  "registerLink": "Нет аккаунта? Зарегистрироваться",
+  "validation": {
+    "emailRequired": "Email обязателен",
+    "emailInvalid": "Неверный формат email",
+    "passwordRequired": "Пароль обязателен"
+  }
+}

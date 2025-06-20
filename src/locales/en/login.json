@@ -1,0 +1,10 @@
+{
+  "title": "Sign In",
+  "submitButton": "Login",
+  "registerLink": "Don't have an account? Sign Up",
+  "validation": {
+    "emailRequired": "Email is required",
+    "emailInvalid": "Invalid email format",
+    "passwordRequired": "Password is required"
+  }
+}
